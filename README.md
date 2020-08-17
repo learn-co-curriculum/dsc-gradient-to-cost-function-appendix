@@ -19,8 +19,7 @@ Now this is a tricky function to take the derivative of.  So we can use function
 
 Now using the chain rule to find the partial derivative with respect to a change in the slope, gives us:
 
-<img src="https://render.githubusercontent.com/render/math?math=[1]\mspace{5ex}\frac{dJ}{dm}J(g) = \frac{dJ}{dg}J(g(m, b))*\frac{dg}{dm}g(m,b)
-"> 
+<img src="https://render.githubusercontent.com/render/math?math=[1]\mspace{5ex}\frac{dJ}{dm}J(g) = \frac{dJ}{dg}J(g(m, b))*\frac{dg}{dm}g(m,b)"> 
 
 Because **g** is a function of **m** we get  <img src="https://render.githubusercontent.com/render/math?math=\boldsymbol{\frac{dg}{dm}}(g)"> and 
 
